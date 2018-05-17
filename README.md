@@ -1,9 +1,9 @@
-#OpenTracker
-The first commercial grade, fully open source and 100% Arduino compatible GPS/GLONASS vehicle tracker with a powerful 32-bit ARM Cortex-M3 CPU.
+# OpenTracker
 
-Official website: [https://www.geolink.io](https://www.geolink.io)
+The first commercial grade, fully open source and 100% Arduino compatible GPS/GLONASS vehicle tracker with a powerful 32-bit ARM Cortex-M3 CPU.
 
 This repository contains PCB and hardware related files.
 
-Arduino software files are available at: https://github.com/geolink/opentracker
+Arduino software files are available at: https://github.com/robotech-srl/opentracker
 
+Tracking cloud service: [https://www.geolink.io](https://www.geolink.io)
